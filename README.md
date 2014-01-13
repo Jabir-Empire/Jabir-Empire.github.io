@@ -1,11 +1,4 @@
-# Welcome to Jabir Empire GitHub repo
-
 ## What's Jabir Empire?
 
-A new sovereign nation.
-
-## Where's Jabir Empire?
-
-Antarctica, Marie Byrd Land.
-
-
+Jabir Empire is a new nation, placed in Marie Byrd Land, Antarctica. 
+Jabir Empire has been started as an "unrecognized state", and it will become recognized by some states soon. 
